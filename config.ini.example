@@ -1,0 +1,11 @@
+[nest]
+client_id = id from nest
+client_secret = secret from nest
+access_token_cache_file = 'nest.json'
+
+[influx]
+host = 127.0.0.1
+port = 8086
+user = influx
+pass = password
+database = nest
