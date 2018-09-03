@@ -1,11 +1,11 @@
 # nest-influxdb
 Import stats into InfluxDB from the Nest API
 
-Script was originally created by kremlinekev in `nest_influx <https://github.com/kremlinkev/nest_influx>`_ and adapted to use the new Nest API, using `python-nest <https://github.com/jkoelker/python-nest>`_
+Script was originally created by kremlinekev in [nest_influx](https://github.com/kremlinkev/nest_influx) and adapted to use the new Nest API, using [python-nest](https://github.com/jkoelker/python-nest)
 
 ## Setup Steps
 
-1. Follow the instructions on `python-nest <https://github.com/jkoelker/python-nest#nest-developer-account>`_ to setup a Nest Developer account.
+1. Follow the instructions on [python-nest](https://github.com/jkoelker/python-nest#nest-developer-account) to setup a Nest Developer account.
 
 2. Install requierements from requirements.txt:
 ```bash
